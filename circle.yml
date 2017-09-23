@@ -1,0 +1,6 @@
+---
+service:
+  - docker
+test:
+   post: 
+      - echo test
